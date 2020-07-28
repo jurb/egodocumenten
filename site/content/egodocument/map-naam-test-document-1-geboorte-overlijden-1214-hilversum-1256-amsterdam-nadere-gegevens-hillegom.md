@@ -1,5 +1,5 @@
 ---
-naam: Test document 2
-geboorte-overlijden: 1214 Hilversum, 1256 Lutjebroek
-nadere-gegevens: Lutjebroek
+naam: Test document 3
+geboorte-overlijden: 1214 Gat, 1256 Primadorp
+nadere-gegevens: Klazienaveen
 ---
