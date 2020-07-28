@@ -1,5 +1,5 @@
 ---
-naam: Test document 1
-geboorte-overlijden: 1214 Hilversum, 1256 Amsterdam
-nadere-gegevens: Hillegom
+naam: Test document 2
+geboorte-overlijden: 1214 Hilversum, 1256 Lutjebroek
+nadere-gegevens: Lutjebroek
 ---
