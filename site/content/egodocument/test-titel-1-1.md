@@ -1,5 +1,5 @@
 ---
 title: test titel 1
-geboorte-overlijden: "234234"
-nadere-gegevens: asdfasf
+geboorteOverlijden: "234234"
+nadereGegevens: asdfasf
 ---

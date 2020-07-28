@@ -1,0 +1,5 @@
+{
+  "name": "{{ .title }}",
+  "nadereGegevens": "{{ .Params.nadereGegevens }}",
+  "geboorteOverlijden": "{{ .Params.geboorteOverlijden }}"
+}

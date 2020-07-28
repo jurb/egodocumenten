@@ -23,10 +23,10 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Naam", name: "title", widget: "string" }
       - {
           label: "Geboorte- en overlijdens- plaats en -datum",
-          name: "geboorte-overlijden",
+          name: "geboorteOverlijden",
           widget: "string",
         }
-      - { label: "Vindplaats", name: "nadere-gegevens", widget: "string" }
+      - { label: "Vindplaats", name: "nadereGegevens", widget: "string" }
       # - { label: "Image", name: "image", widget: "image", required: false }
       # - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
