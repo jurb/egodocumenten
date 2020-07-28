@@ -1,5 +1,5 @@
 ---
-title: Test titel 2
-geboorte-overlijden: 2114 amsterdam
+title: Test titel 3
+geboorte-overlijden: 1114 amsterdam
 nadere-gegevens: hillegom
 ---
